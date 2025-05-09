@@ -2,7 +2,7 @@
 
 # Data Repository
 
-Data files for the manuscript [https://arxiv.org/abs/2407.07953][Dynamic phase transition into a mixed-CDW state in 1T-TaS<sub>2</sub> via a thermal quench, Alberto de la Torre,  Qiaochu Wang, Yasamin Masoumi, Benjamin Campbell, Jake V. Riffle, Dushyanthini Balasundaram, Pattrick M.Vora, Jacob P.C. Ruff, Gregory A. Fiete, Shawna M. Hollen, and Kemp W. Plumb (2025)]
+Data files for the manuscript [https://arxiv.org/abs/2407.07953][_Dynamic phase transition into a mixed-CDW state in 1T-TaS<sub>2</sub> via a thermal quench_, Alberto de la Torre, Qiaochu Wang, Yasamin Masoumi, Benjamin Campbell, Jake V. Riffle, Dushyanthini Balasundaram, Pattrick M.Vora, Jacob P.C. Ruff, Gregory A. Fiete, Shawna M. Hollen, and Kemp W. Plumb (2025)]
 
 
 
